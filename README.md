@@ -5,7 +5,10 @@ Every day, thousands of companies and individuals turn to LinkedIn in search of 
 With so many datapoints, the potential for exploration of this dataset is vast and includes exploring the highest compensated titles, companies, and locations; predicting salaries/benefits through NLP; and examining how industries and companies vary through their internship offerings and benefits. Future updates will permit further exploration into time-based trends, including company growth, prevalence of remote jobs, and demand of individual job titles over time.
 
 # Business Questions :--
+
 **Job Market Trends**
 "What are the top in-demand tech skills in 2024-2025?"
+
 "How do salaries vary by role, location, and experience?"
+
 "Which industries are hiring the most?"
