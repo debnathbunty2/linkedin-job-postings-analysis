@@ -12,3 +12,18 @@ With so many datapoints, the potential for exploration of this dataset is vast a
 "How do salaries vary by role, location, and experience?"
 
 "Which industries are hiring the most?"
+
+** DELIVERABLES:**
+    - Data cleaned dataset (CSV)
+    
+    - EDA notebook (Jupyter)
+    
+    - Analysis notebook with insights
+    
+    - Tableau dashboard
+    
+    - Executive report (2 pages)
+    
+  **TOOLS:** 
+  Python (pandas, numpy), SQL, Tableau, Excel
+  **TIMELINE:** 4 weeks
