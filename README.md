@@ -13,7 +13,7 @@ With so many datapoints, the potential for exploration of this dataset is vast a
 
 "Which industries are hiring the most?"
 
-** DELIVERABLES:**
+**DELIVERABLES:**
     - Data cleaned dataset (CSV)
     
     - EDA notebook (Jupyter)
